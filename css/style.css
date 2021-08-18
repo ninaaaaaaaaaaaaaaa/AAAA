@@ -1,9 +1,4 @@
-.estra{
-  width: 1000px;
-}
-.growth{
-  width: 100%;
-}
+
 .header-ttl{
   width: 100px;
   margin-left: 20px;
@@ -116,7 +111,7 @@ a{
   
   padding: 20px 0;
 }
-small{
+h6{
   font-family: 'Indie Flower', cursive;
   font-size: 10px;
   color: mediumvioletred;
@@ -133,6 +128,7 @@ small{
 }
 .about_item_td{
  width: 40%;
+ line-height: 23px;
 }
 h4{
   padding: 10px 0;
@@ -264,7 +260,7 @@ h3{
   display: inline-block;
   border-radius: 8px 0 0 0;
   position: relative;
-  top: -132px;
+  top: -185px;
   right: 15px;
 }
 .blog_td_tag{
@@ -314,14 +310,14 @@ table th{
   position: relative;
   background: url(../img/recruit.png);
   width: 50%;
-  height: 150px;
+  height: 250px;
   background-size: cover;
 }
 .last_2{
   position: relative;
   background: url(../img/interview.png);
   width: 50%;
-  height: 150px;
+  height: 250px;
   background-size: cover;
 }
 .last{
@@ -355,7 +351,7 @@ table th{
 }
 .contact_btn{
   position: relative;
-  left: 40%;
+  left: 43%;
   text-align: center;
   padding-left: 26px;
   border-radius: 30px;
@@ -379,4 +375,18 @@ table th{
   width: 15px;
   height: 15px;
   margin-left: 8px;
+}
+.footer_{
+  text-align: center;
+  font-size: 8px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  display: block;
+  color:gray;
+}
+footer{
+  text-align: center;
+  background-color: rgb(236, 235, 235);
+ 
+  
 }
